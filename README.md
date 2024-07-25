@@ -13,8 +13,8 @@ This project implements a Convolutional Neural Network (CNN) using Keras in Pyth
         pip install tensorflow
    
 ## Running the Code
-i. Navigate to the project directory.
-ii. Run the python script:  fashion_mnist_cnn.ipynb
+1. Navigate to the project directory.
+2. Run the python script:  fashion_mnist_cnn.ipynb
 
 ## Understanding the Code:
 The script does the following
